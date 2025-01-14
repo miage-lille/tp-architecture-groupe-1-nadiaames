@@ -25,6 +25,9 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
-    "date-fns": "^4.1.0"
+    "@types/uuid": "^10.0.0",
+    "date-fns": "^4.1.0",
+    "install": "^0.13.0",
+    "npm": "^11.0.0"
   }
 }
